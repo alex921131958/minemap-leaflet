@@ -11,8 +11,8 @@ npm install minemap-leaflet
 ##### mapTitleLayer
 地图瓦片<br>
 minemap底图瓦片分为两部分，测试阶段可以使用高德或腾讯地图瓦片服务<br>
-//http://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}  高德<br>
-//http://rt{s}.map.gtimg.com/realtimerender?z={z}&x={x}&y={y}&type=vector&style={t} 腾讯<br>
+http://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}  高德<br>
+http://rt{s}.map.gtimg.com/realtimerender?z={z}&x={x}&y={y}&type=vector&style={t} 腾讯<br>
 ##### poiTitleLayer
 poi瓦片<br>
 ##### titleLayerOptions
